@@ -33,8 +33,8 @@ Make sure you have Python 3.6+ and pip installed on your machine.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/User-Authentication-in-Flask.git
-cd User-Authentication-in-Flask
+git clone https://github.com/farhan12192/info-project.git
+cd info-project
 ```
 
 ### Set Up a Virtual Environment
